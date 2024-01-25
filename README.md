@@ -1,5 +1,7 @@
 # ICAT DAO Tokens
 
+Please read the disclaimer on our website prior to interacting with any of these tokens: https://icat.wtf
+
 $ICAT Tokenomics
 
 Symbol: ICAT
