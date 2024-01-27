@@ -14,7 +14,7 @@ Max Supply: 99,999,999
 
 Decimals: 8
 
-Burn per transaction: 0.01 $ICAT (0.3% ICPSwap pool fee recycled into LP if swapped).
+Burn per transaction: 0.01 $ICAT (0.3% ICPSwap pool fee burned if swapped).
 
 $MCS Tokenomics:
 
